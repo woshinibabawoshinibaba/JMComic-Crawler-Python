@@ -5,7 +5,8 @@ from jmcomic.cl import get_env, JmcomicUI
 jm_albums = '''
 JM422866
 422866
-
+jm422866
+23333
 
 '''
 
